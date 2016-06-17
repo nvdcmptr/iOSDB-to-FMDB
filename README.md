@@ -14,4 +14,10 @@ Only use DatabaseHelper Class to manage database
 ## Existing Project implement by iOSDB:
 Use class iOSDB in Directory "iOSDB-To-FMDB" in sample project 
 
+## Dependency:
+sqlite3.dylib
+
+## Language:
+Objective C
+
 
